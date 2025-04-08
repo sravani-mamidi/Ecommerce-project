@@ -1,4 +1,4 @@
-import React from 'react';
+git remote add origin https://github.com/sneha123/ecommerce-project.gitzimport React from 'react';
 import './About.css';
 
 const About = () => {
